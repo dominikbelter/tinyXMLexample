@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Robot>
+    <type>MessorII</type>
+    <config>MessorII/MessorII.xml</config>
+    <parameters legsNo="6" mass="3.2"/>
+</Robot>
